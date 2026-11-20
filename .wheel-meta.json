@@ -1,0 +1,22 @@
+{
+  "wheel_id": 931,
+  "structure": "umbrella",
+  "slug": "noosafencing-118",
+  "project": "fencing-contractors-noosa-pros-and-cons-1fbaa925e3ea8427209be35",
+  "parent_t1_ref": "noosafencing-158",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa pros and cons",
+  "intended_url": "http://fencing-contractors-noosa-pros-and-cons-1fbaa925e3ea8427209be35.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "d0b520840cb93607",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-contractors-noosa-common-mistakes-c21f5d7ec71bc4c42015a/",
+      "anchor": "this fencing contractors noosa common mistakes resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
